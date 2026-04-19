@@ -1,0 +1,15 @@
+Unet++ (Paper) - Model Backup/*
+Yolo - Model Backup/*
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Dataset local
+dataset/
+data/
+*.zip
