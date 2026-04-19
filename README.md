@@ -1,7 +1,8 @@
 # Trabajo Práctico — Visión por Computadora II
 ### CEIA · Universidad de Buenos Aires
 
-**Autor:** Agustín Maglione  | Juan Chung | Juan Cruz Becerra
+**Autor:** Agustín Maglione | Juan Chunga | Juan Cruz Becerra
+
 **Materia:** Visión por Computadora II  
 **Año:** 2026
 
